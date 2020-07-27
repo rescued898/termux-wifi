@@ -9,7 +9,7 @@ This file was created & modified by ViperZCrew Members:
 NOTE: This Script working only on Termux [Android APP]
 
 ``
-git clone https://github.com/ViperZCrew/termux-wifi && cd termux-wifi
+git clone https://github.com/rescued898/termux-wifi && cd termux-wifi
 ``
 
 Setting Permissions to the executable file and run it:
