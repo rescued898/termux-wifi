@@ -23,7 +23,7 @@ clear
 
 echo -e $purple ================================================================
 echo " "
-eche $blue && figlet "Installing requirements...
+eche $blue && figlet "Installing requirements..."
 echo " "
 echo -e $purple ================================================================
 
